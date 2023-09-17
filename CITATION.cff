@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this set of data and input files, please cite it as below."
+authors:
+- family-names: "İşcen"
+  given-names: "B. Nilay"
+  orcid: "https://orcid.org/0009-0003-9382-8113"
+- family-names: "Kwang"
+  given-names: "Jeffrey S."
+  orcid: "https://orcid.org/0000-0002-3165-9700"
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+title: "grlp_real_network_examples"
+version: 0.0.0
+date-released: 2023-09-11
+url: "https://github.com/MNiMORPH/grlp_real_network_examples"
